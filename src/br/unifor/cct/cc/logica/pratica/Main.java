@@ -5,6 +5,7 @@ package br.unifor.cct.cc.logica.pratica;
  * @author Everton Guimaraes
  *
  */
+ //Alunos: Augusto Cesar e Davi de Melo
 import java.util.Scanner;
 
 public class Principal {
