@@ -23,7 +23,8 @@ public class Principal {
 		imprimirMedia(boletimAlunos, mediaAlunos);
 		//Q9
 		buscarMatricula(boletimAlunos,s);
-
+                
+                buscarMatriculaII(boletimAlunos,s)
 	}
 	//Q1
 
